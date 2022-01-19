@@ -11,5 +11,5 @@ export default function App() {
   );
 }
 function Question(props) {
-  return <p>How are you {props.name} ?</p>;
+  return <p>How are you {props.name}?</p>;
 }
